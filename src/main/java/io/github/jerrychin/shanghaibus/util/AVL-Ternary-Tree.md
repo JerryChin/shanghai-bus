@@ -16,6 +16,6 @@ so when stack pops up from c node, a rebalance is fired, then we have the follow
                      d
                    /    \
                   b      e
-                 / | \
-                a ¬b   c
+                /   \
+               a     c
 ```
